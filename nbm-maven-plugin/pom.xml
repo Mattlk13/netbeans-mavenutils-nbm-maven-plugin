@@ -137,7 +137,7 @@ under the License.
         <dependency>
             <groupId>org.apache.maven.shared</groupId>
             <artifactId>maven-filtering</artifactId>
-            <version>3.5.0</version>
+            <version>3.5.1</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.codehaus.plexus</groupId>
